@@ -14,7 +14,9 @@ Allows owners of ERC721 tokens to swap NFTs one-for-one
 
 ### Note:
 1. The Permies NFT was used as an example for the development of this contract.
+    https://etherscan.io/address/0xf9c12bd715df34c7850766a48178648ac0cb200d#code
 2. The contract owner of which parties want to swap tokens is the best party to deploy this contract on-chain. The reason is that as trustless as this swap may be, an admin is necessary in case the two parties keep the contract locked for longer
+3. Apart from the TrustlessTokenSwap.sol file, the remaining file are IP of either the Permies team or OpenZepellin.
 
 
 ### DISCLAIMER
