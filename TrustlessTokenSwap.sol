@@ -139,7 +139,20 @@ contract trustlessTokenSwap{
 }
 
 
-
+/* Testing
+1. Can users lock the contract?
+2. Can users deposit a token to a contract?
+3. Can users view the tokens that have been deposited to the contract?
+4. Can users withdraw their own tokens?
+5. Can users withdraw the other tokens before the time? (they should not)
+6. Can users withdraw the other tokens after the time? (they should)
+7. Can users deposit more than one token?
+8. Can users deposit token when unlocked?
+9. Can an admin obtain the tokens when locked?
+10. Can an admin release the lock during the hour?
+11. Can the admin release the lock between 1 and 24 hours?
+12. Can the admin release the lock after 24 hours?
+*/ 
 
 
 
