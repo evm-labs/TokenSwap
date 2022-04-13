@@ -1,13 +1,13 @@
+pragma solidity 0.8.11;
 // SPDX-License-Identifier: None
 
+
+// 𝕓𝕪 @𝕖𝕧𝕞_𝕝𝕒𝕓𝕤 & @𝕕𝕚𝕞𝕚𝕣𝕖𝕒𝕕𝕤𝕥𝕙𝕚𝕟𝕘𝕤 (𝕋𝕨𝕚𝕥𝕥𝕖𝕣)
+
 /*
-Author
-@dimireadsthings
-@evm_labs 
 Created based on a token echange of PERMIES 0xf9c12bd715df34c7850766a48178648ac0cb200d 
 THIS IMPLEMENTATION IS NOT AFFILIATED AND IS BY NO MEANS VALIDATED BY THE PERMIES TEAM
 */
-pragma solidity 0.8.11;
 
 import "./Permies.sol";
 
